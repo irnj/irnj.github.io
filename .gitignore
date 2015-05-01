@@ -9,12 +9,4 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 
-_config.yml~
-
-*.un~
-
-*.html~
-
-*.yml~
-
-*.md~
+*.*~
