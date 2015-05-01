@@ -10,9 +10,9 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Information Retrieval News Japan
-tagline: Site Tagline
+tagline: 
 author :
-  name : Hideo Joho
+  name : IR News Japan
   email : 
   github : 
   twitter : irnewsjapan
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://irnj.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -81,7 +81,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
