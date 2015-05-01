@@ -30,3 +30,6 @@ Timothy G. Armstrong, Alistair Moffat, William Webber, and Justin Zobel. 2009. [
  * [NTCIR: NII Test Collections and Community for Information Access Research](http://research.nii.ac.jp/ntcir/index-ja.html) 
  * [出版バイアス](http://ja.wikipedia.org/wiki/出版バイアス)
  * [Ellen M. Voorhees. 1994. Query expansion using lexical-semantic relations](http://dl.acm.org/citation.cfm?id=188508). In Proceedings of the 17th annual international ACM SIGIR conference on Research and development in information retrieval (SIGIR '94), W. Bruce Croft and C. J. van Rijsbergen (Eds.). Springer-Verlag New York, Inc., New York, NY, USA, 61-69.
+
+#### 免責
+ポッドキャストで表現された内容は全てホストとゲストの個人的見解であり、所属する組織の見解を表したものではありません。
