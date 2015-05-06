@@ -33,4 +33,4 @@ Timothy G. Armstrong, Alistair Moffat, William Webber, and Justin Zobel. 2009. [
  * Kelly, D. and Sugimoto, C. R. (2013), [A systematic review of interactive information retrieval evaluation studies, 1967–2006](http://onlinelibrary.wiley.com/doi/10.1002/asi.22799/abstract). J. Am. Soc. Inf. Sci., 64: 745–770. doi: 10.1002/asi.22799 
 
 #### 免責
-ポッドキャストで表現された内容は全てホストとゲストの個人的見解であり、所属する組織の見解を表したものではありません。
+ポッドキャストで表現された内容は全て管理人とゲストの個人的見解であり、所属する組織の見解を表したものではありません。

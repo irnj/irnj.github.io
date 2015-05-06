@@ -29,4 +29,4 @@ tags: []
  * Diane Kelly (2009), [Methods for Evaluating Interactive Information Retrieval Systems with Users](http://www.nowpublishers.com/article/Details/INR-012), Foundations and Trends in Information Retrieval: Vol. 3: No. 1–2, pp 1-224. http://dx.doi.org/10.1561/1500000012
 
 #### 免責
-ポッドキャストで表現された内容は全てホストとゲストの個人的見解であり、所属する組織の見解を表したものではありません。
+ポッドキャストで表現された内容は全て管理人とゲストの個人的見解であり、所属する組織の見解を表したものではありません。
