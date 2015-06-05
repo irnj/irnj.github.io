@@ -2,7 +2,7 @@
 layout: post
 title: "Aftershow #2 How to improve IR with WSD"
 tagline: with Atsushi Keyaki
-description: "欅惇志先生（東工大）と、東京・つくばの自転車事情、Twitter、検索ログ、の話をしました。"
+description: "欅惇志先生（東工大）と、東京・つくばの自転車事情、Twitter、検索ログ、パーソナライズ検索の話をしました。"
 category: 
 tags: []
 ---
