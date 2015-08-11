@@ -14,7 +14,7 @@ tags: []
 
 #### ゲスト
 * 氏名：欅 惇志
-* 所属：東京工業大学情報理工学研究科計算工学専攻
+* 所属：東京工業大学 情報理工学研究科 計算工学専攻
 * URL（個人）：[http://www.lsc.cs.titech.ac.jp/keyaki/index-jp.html](http://www.lsc.cs.titech.ac.jp/keyaki/index-jp.html)
 * URL（研究室）：[http://www.lsc.cs.titech.ac.jp/](http://www.lsc.cs.titech.ac.jp/)
 * Twitter：[@keyakkie](https://twitter.com/keyakkie)

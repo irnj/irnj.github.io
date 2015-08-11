@@ -14,7 +14,7 @@ tags: []
 
 #### ゲスト
 * 氏名：酒井哲也
-* 所属：早稲田大学情報理工学科
+* 所属：早稲田大学 情報理工学科
 * URL（個人）：[http://www.f.waseda.jp/tetsuya/sakai.html](http://www.f.waseda.jp/tetsuya/sakai.html)
 * URL（研究室）：[http://sakailab.com/](http://sakailab.com/)
 * Twitter：[@tetsuyasakai](https://twitter.com/tetsuyasakai)
