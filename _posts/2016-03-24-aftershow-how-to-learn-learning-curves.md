@@ -10,7 +10,7 @@ tags: []
 
 嶋英樹さん（Duolingo）とモバイルやGoogle Project Fiの話をしました。
 
-※これはアフターショーです。本編は、[こちら](../../../2015/09/how-to-find-the-best-search-strategy)です。
+※これはアフターショーです。本編は、[こちら](../../../2015/09/how-to-learn-learning-curves)です。
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/254671415&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
