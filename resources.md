@@ -45,4 +45,4 @@ group: navigation
  * [Draft ECIR Paper Guidelines (PDF)](http://irsg.bcs.org/proceedings/ECIR_Draft_Guidelines.pdf)
 
 
-[トップに戻る](./)]
+[トップに戻る](./)
