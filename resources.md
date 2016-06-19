@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+書籍情報は、[リソースガイド2](./resources2.html)をご覧下さい。
+
 #### 論文誌
  * IP&M: Information Processing and Management (Elsevier) \[[Home page](http://www.journals.elsevier.com/information-processing-and-management) \| [Digital Library](http://www.sciencedirect.com/science/journal/03064573)\]
  * IRJ: Information Retrieval Journal (Springer) \[[Home page](http://www.springer.com/computer/database+management+%26+information+retrieval/journal/10791/PSE) \| [Digital Library](http://www.springerlink.com/content/1386-4564)\]
@@ -24,7 +26,7 @@ group: navigation
  * JCDL: ACM/IEEE Joint Conference on Digital Libraries (ACM/IEEE) \[[Home page](http://www.jcdl.org/) \| [Digital Library](http://dl.acm.org/event.cfm?id=RE113)\]
  * SIGIR: International ACM SIGIR Conference on Research and Development in Information Retrieval (ACM) \[[Home page](http://sigir.org/) \| [Digital Library](http://dl.acm.org/event.cfm?id=RE160)\]
  * WSDM: ACM International Conference on Web Search and Web Data Mining (ACM) \[[Home page](http://www.wsdm-conference.org/) \| [Digital Library](http://dl.acm.org/event.cfm?id=RE102)\]
- * WWW: International World Wide Web Conference (IW3C2) \[[Home page](http://www.iw3c2.org/conferences/) \| [Digital Library](http://dblp2.uni-trier.de/db/conf/www/)
+ * WWW: International World Wide Web Conference (IW3C2) \[[Home page](http://www.iw3c2.org/conferences/) \| [Digital Library](http://dblp2.uni-trier.de/db/conf/www/)\]
 
 #### 国際会議（欧州・アジア・オセアニア等）
  * AIRS: Asia Information Retrieval Societies Conference (Local) \[[Home page](http://research.microsoft.com/en-us/groups/airs/) \| [Digital Library](http://dblp.uni-trier.de/db/conf/airs/)\]
@@ -47,8 +49,6 @@ group: navigation
 #### ニュースレター
  * SIGIR Forum (ACM) \[[Home page](http://sigir.org/forum/) \| [Digital Library](http://dl.acm.org/citation.cfm?id=J701)\]
 
-#### 情報検索論文の書き方
- * [Draft ECIR Paper Guidelines (PDF)](http://irsg.bcs.org/proceedings/ECIR_Draft_Guidelines.pdf)
 
 
 [トップに戻る](./)
