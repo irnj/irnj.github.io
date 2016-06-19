@@ -12,13 +12,19 @@ group: navigation
  * JASIST: Journal of the Association for Information Science and Technology (ASIS&T) \[[Home page](https://www.asis.org/jasist.html) \| [Digital Library](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-2890)\]
  * TOIS: Transactions on Information Systems (ACM) \[[Home page](http://tois.acm.org/) \| [Digital Library](http://dl.acm.org/citation.cfm?id=J779)\]
 
+#### モノグラフシリーズ・レビュー論文誌
+ * ARIST: Annual Review of Information Science and Technology (ASIS&T)  \[[Home page](https://www.asis.org/Publications/ARIST/)\] （2011年休刊）
+ * FnTIR: Foundations and Trends® in Information Retrieval (now) \[[Home page](http://www.nowpublishers.com/INR)\]
+ * Synthesis Lectures on Information Concepts, Retrieval, and Services (Morgan & Claypool) \[[Home page](http://www.morganclaypool.com/toc/icr/1/1)\]
+
 #### 国際会議（北米中心）
- * CHIIR: ACM SIGIR International Conference on Human Information Interaction and Retrieval (ACM) \[[Home page](http://sigir.org/conferences/sponsored-conferences/) \| [Digital Library](http://dblp2.uni-trier.de/db/conf/chiir/)\]
+ * CHIIR: ACM SIGIR International Conference on Human Information Interaction and Retrieval (ACM) \[[Home page](http://sigir.org/conferences/sponsored-conferences/) \| [Digital Library](http://dblp.uni-trier.de/db/conf/chiir/)\]
  * CIKM: International ACM Conference on Information and Knowledge Management (ACM) \[[Home page](http://www.cikmconference.org/) \| [Digital Library](http://dl.acm.org/event.cfm?id=RE302)\]
- * ICTIR: ACM SIGIR International Conference on the Theory of Information Retrieval (ACM) \[[Home page](http://sigir.org/conferences/sponsored-conferences/) \| [Digital Library](http://dblp2.uni-trier.de/db/conf/ictir/)\]
+ * ICTIR: ACM SIGIR International Conference on the Theory of Information Retrieval (ACM) \[[Home page](http://sigir.org/conferences/sponsored-conferences/) \| [Digital Library](http://dblp.uni-trier.de/db/conf/ictir/)\]
  * JCDL: ACM/IEEE Joint Conference on Digital Libraries (ACM/IEEE) \[[Home page](http://www.jcdl.org/) \| [Digital Library](http://dl.acm.org/event.cfm?id=RE113)\]
  * SIGIR: International ACM SIGIR Conference on Research and Development in Information Retrieval (ACM) \[[Home page](http://sigir.org/) \| [Digital Library](http://dl.acm.org/event.cfm?id=RE160)\]
  * WSDM: ACM International Conference on Web Search and Web Data Mining (ACM) \[[Home page](http://www.wsdm-conference.org/) \| [Digital Library](http://dl.acm.org/event.cfm?id=RE102)\]
+ * WWW: International World Wide Web Conference (IW3C2) \[[Home page](http://www.iw3c2.org/conferences/) \| [Digital Library](http://dblp2.uni-trier.de/db/conf/www/)
 
 #### 国際会議（欧州・アジア・オセアニア等）
  * AIRS: Asia Information Retrieval Societies Conference (Local) \[[Home page](http://research.microsoft.com/en-us/groups/airs/) \| [Digital Library](http://dblp.uni-trier.de/db/conf/airs/)\]
@@ -27,7 +33,7 @@ group: navigation
 
 #### テストコレクション
  * CLEF: Conference and Labs of the Evaluation Forum (Local) \[[Home page](http://www.clef-initiative.eu/) \| [Digital Library](http://www.clef-initiative.eu/publication/proceedings)\]
- * INEX: Initiative for the Evaluation of XML retrieval (Local) \[[Home page](http://inex.mmci.uni-saarland.de) \| [Digital Library](http://inex.mmci.uni-saarland.de/data/publications.html)\]
+ * INEX: Initiative for the Evaluation of XML retrieval (Local) \[[Home page](http://inex.mmci.uni-saarland.de) \| [Digital Library](http://inex.mmci.uni-saarland.de/data/publications.html)\]（2014年CLEFと吸収合併）
  * MediaEval: MediaEval Benchmarking Initiative for Multimedia Evaluation (Local) \[[Home page](http://www.multimediaeval.org/) \| [Digital Library](http://dblp.uni-trier.de/db/conf/mediaeval/)\]
  * NTCIR: NII Testbeds and Community for Information access research (NII) \[[Home page](http://research.nii.ac.jp/ntcir/index-en.html) \| [Digital Library](http://research.nii.ac.jp/ntcir/publication1-en.html)\]
  * TREC: Text Retrieval Conference (NIST) \[[Home page](http://trec.nist.gov/) \| [Digital Library](http://trec.nist.gov/proceedings/proceedings.html)\]
@@ -35,7 +41,7 @@ group: navigation
 
 #### サマースクール
  * ASSIA: Asian Summer School in Information Access (Local) \[[Home page](http://goassia.github.io/)\]
- * ESSIR: European Summer School in Information Retrieval (Local) [Wikipedia](https://en.wikipedia.org/wiki/European_Summer_School_in_Information_Retrieval)\]
+ * ESSIR: European Summer School in Information Retrieval (Local) \[[Wikipedia](https://en.wikipedia.org/wiki/European_Summer_School_in_Information_Retrieval)\]
  * RuSSIR: Russian Summer School in Information Retrieval (ROMIP) \[[Home page](http://romip.ru/en/)\]
 
 #### ニュースレター
