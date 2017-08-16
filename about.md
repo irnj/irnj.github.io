@@ -13,7 +13,7 @@ group: navigation
 * 氏名：上保 秀夫
 * 所属：筑波大学 図書館情報メディア系 知的コミュニティ基盤研究センター
 * URL（個人）：[http://www.slis.tsukuba.ac.jp/~hideo/](http://www.slis.tsukuba.ac.jp/~hideo/)
-* URL（研究室）：[http://joho.slis.tsukuba.ac.jp/](http://joho.slis.tsukuba.ac.jp/)
+* URL（研究室）：[http://isrtsukuba.github.io/](http://isrtsukuba.github.io/)
 
 
 [トップに戻る](./)
