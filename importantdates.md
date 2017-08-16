@@ -6,23 +6,54 @@ group: navigation
 ---
 {% include JB/setup %}
 
+投稿順序の目安：JCDL/SIGIR (1月) → CIKM (5月) → AIRS (7月) → WSDM (8月) → CHIIR/ECIR (10月)
+
+#### AIRS
 | 日付        | イベント       |
 |------------|---------------|
-| 2016.07.03 | AIRS Abstract |
-| 2016.07.10 | AIRS Full Paper |
-| 2016.07.31 | WSDM Abstract |
-| 2016.08.07 | WSDM Full paper |
-| 2016.09.01 | CHIIR Full Paper |
-| 2016.10.07 | ECIR Full Paper |
-| 2016.10.15 | [JIR: Search as Learning (PDF)](http://www.springer.com/cda/content/document/cda_downloaddocument/CfP_SI_Search+As+Learning.pdf?SGWID=0-0-45-1573868-p35744790) |
-| 2016.10.21 | ECIR Poster |
-| 2016.11.30-12.02 | [AIRS 2016 (Beijing, China)](http://airs2016.ruc.edu.cn) |
-| 2017.01.17 | SIGIR Abstract |
-| 2017.01.24 | SIGIR Full Paper |
-| 2017.02.06-10 | [WSDM 2017 (Cambridge, UK)](http://www.wsdm-conference.org/2017/) |
-| 2017.02.28 | SIGIR Short Paper
-| 2017.03.07-11 | [CHIIR 2017 (Oslo, Norway)](http://sigir.org/chiir2017/) |
-| 2017.04.08-13 | [ECIR 2017 (Aberdeen, UK)](http://www.ecir2017.org) |
-| 2017.08.07-11 | [SIGIR 2017 (Tokyo, Japan)](http://sigir.org/sigir2017/) |
+| 2017.07.15 | Abstract |
+| 2017.07.19 | Full Paper |
+| 2017.11.22-24 | [AIRS 2017](http://www.airs2017.org) (In Jeju Island, Korea)|
+
+#### CHIIR
+| 日付        | イベント       |
+|------------|---------------|
+| 2017.10.01 | Full Paper |
+| 2018.03.11-15 | [CHIIR 2018](http://sigir.org/chiir2018/) (New Brunswick, New Jersey, USA)|
+
+#### CIKM
+| 日付        | イベント       |
+|------------|---------------|
+| 2017.05.16 | Abstract |
+| 2017.05.23 | Full Paper |
+| 2017.11.06-10 | [CIKM 2017](http://cikm2017.org/) (Singapore)|
+
+#### ECIR
+| 日付        | イベント       |
+|------------|---------------|
+| 2017.10.16 | Full Paper |
+| 2018.03.26-29 | [ECIR 2018](https://www.ecir2018.org) (Grenoble, France)|
+
+#### JCDL
+| 日付        | イベント       |
+|------------|---------------|
+| 2018.01.15 | Full Paper |
+| 2018.06.03-07 | [JCDL 2018](http://2018.jcdl.org) (Fort Worth, Texas, USA)|
+
+#### SIGIR
+| 日付        | イベント       |
+|------------|---------------|
+| 2018.01.22 | Abstract |
+| 2018.01.29 | Full Paper |
+| 2018.07.08-12 | [SIGIR 2018](http://sigir.org/sigir2018/) (Ann Arbor, Michigan, USA)|
+
+#### WSDM
+| 日付        | イベント       |
+|------------|---------------|
+| 2017.08.04 | Abstract |
+| 2017.08.12 | Full Paper |
+| 2018.02.05-19 | [WSDM 2018](http://www.wsdm-conference.org/2018/) (Los Angeles, California, USA)|
+
+
 
 [トップに戻る](./)
